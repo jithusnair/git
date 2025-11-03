@@ -2,3 +2,5 @@
 
 - Learning Git Diff (with and without --staged)
 - Learning to amend a commit
+- Learning to reset HEAD <file-name>
+- Learning git checkout -- <file-name> to discard changes
