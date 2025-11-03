@@ -4,3 +4,4 @@
 - Learning to amend a commit
 - Learning to reset HEAD <file-name>
 - Learning git checkout -- <file-name> to discard changes
+- Learning undos with git restore with and without --staged
