@@ -1,5 +1,6 @@
 # This is the first git file
 
+
 - Learning Git Diff (with and without --staged)
 - Learning to amend a commit
 - Learning to reset HEAD <file-name>
@@ -8,4 +9,5 @@
 - Learning git branching - part 1 in main
 - Learning git branching - merge conflicts
 - Remotes - part 1
+- Tracking remotes
 - Rebasing - part 1
